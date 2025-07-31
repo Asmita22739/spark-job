@@ -1,3 +1,2 @@
-test the hook
-second test
-third
+new commit
+second
